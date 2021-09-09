@@ -28,7 +28,7 @@ SO THAT I can create a strong password that provides greater security
 
 2. Clone the repository 
 ```bash
-git clone git@github.com:LexMastro/password-generator/Develop.git
+git clone git@github.com:LexMastro/password-generator/.git
 ```
 2. Open `index.html` in web browser to use password generator
 
